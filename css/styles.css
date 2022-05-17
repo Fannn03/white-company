@@ -11724,7 +11724,7 @@ header.masthead .masthead-heading {
 
 section#broadcast {
   background-color: #212529;
-  background-image: linear-gradient(rgba(22, 20, 21, 0.8), rgba(22, 20, 21, 0.8)), url("https://images.unsplash.com/photo-1595520467722-98c9fd0f8fbd?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NHx8YnJvYWRjYXN0fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60");
+  background-image: linear-gradient(rgba(22, 20, 21, 0.8), rgba(22, 20, 21, 0.8)), url("../assets/img/broadcast.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: scroll;
